@@ -1,0 +1,7 @@
+train: ./data/custom dataset/images
+val: ./data/custom dataset/images
+
+
+nc: 5
+
+names: ['face']
